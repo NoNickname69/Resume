@@ -3,7 +3,7 @@
 Electronics and Communication Engineering student focused on building practical AI systems across Computer Vision, NLP, IoT, and Embedded Systems.
 
 ## Resume
-[View CV PDF](./Dayyan_CV.pdf)
+[View CV PDF](./Dayyan_Resume.pdf)
 
 ## Projects
 - AI Resume Intelligence System
